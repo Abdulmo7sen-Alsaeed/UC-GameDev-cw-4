@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0baa523d0e6072f47b386b7da6bf0656
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - greenObject: {fileID: 8561906550079352982, guid: 89f835de46d494947a39f1be320100e7, type: 3}
+  - redObject: {fileID: 836062981420486342, guid: b8fc3bb9b7fe44941b1c5312e95692c5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
